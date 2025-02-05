@@ -1,5 +1,5 @@
 # :earth_americas: GDP dashboard template
-
+![GDP Dashboard Icon](cover.png)
 
 This interactive application, built with **Streamlit**, allows users to visualize the **Gross Domestic Product (GDP)** data of multiple countries over time. The data is sourced from the **World Bank Open Data**.
 
